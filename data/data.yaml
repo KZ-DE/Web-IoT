@@ -1,0 +1,23 @@
+cookie:
+  expiry_days: 30
+  key: some_key
+  name: some_cookie_name
+credentials:
+  usernames:
+    cok:
+      email: cok2@gmail.com
+      failed_login_attempts: 0
+      first_name: nebula
+      last_name: cok
+      logged_in: false
+      password: $2b$12$XEuQydpThgeLRo.utvm//OftlDnIy6ywue6ArjSTJRKCpQ0Yr55SW
+      password_hint: Qwerty123!
+      roles: null
+    rcouper:
+      email: rcouper@gmail.com
+      failed_login_attempts: 0
+      logged_in: false
+      name: Ross Couper
+      password: $2b$12$Tir/PbHVmmnt5kgNxgOwMuxNIb2fv2pJ.q71TW8ekvbugCqkye4yu
+pre-authorized:
+  emails: []
